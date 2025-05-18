@@ -1,0 +1,47 @@
+# Compilação
+target/
+bin/
+out/
+
+# Arquivos de log
+*.log
+
+# IDEs e ferramentas de desenvolvimento
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+.loadpath
+
+# VS Code
+.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup e swap
+*~
+*.swp
+*.swo
+*.bak
+
+# Arquivos gerados por Maven
+log/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Arquivos específicos de sistema
+*.orig
+*.rej
+
+# Arquivos de cache
+.cache/
+
