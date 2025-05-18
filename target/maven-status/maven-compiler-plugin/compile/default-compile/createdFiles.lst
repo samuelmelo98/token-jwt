@@ -1,4 +1,0 @@
-com/exemplo/servlet/AuthFilter.class
-com/exemplo/servlet/ProtegidoServlet.class
-com/exemplo/servlet/LoginServlet.class
-com/exemplo/servlet/JwtUtil.class
